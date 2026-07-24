@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "ROMYFOOD - Application de Livraison de Nourriture",
-    description: "Une application mobile de livraison de nourriture qui permet aux utilisateurs de commander des repas auprès de restaurants locaux et de suivre leur livraison en temps réel.",
+    description: "Une application  de prise de commande de nourriture qui permet aux utilisateurs de commander des repas auprès de restaurants locaux .",
     category: "Frontend",
     github: "https://github.com/Kazusha/ROMYFOOD",
     image: "/romyfood.png",
