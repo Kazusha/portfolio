@@ -1,7 +1,7 @@
 "use client";
 export default function Header() {
   return (
-    <header className="flex justify-between items-center px-10 py-4 bg-white shadow-sm">
+    <header className="sticky top-0 z-50  flex justify-between items-center px-10 py-4 bg-white shadow-sm">
       <div className="flex items-center">
         <a href="#about" className="text-base font-bold text-gray-500">Liman21</a>
       </div>
