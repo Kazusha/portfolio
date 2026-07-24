@@ -14,7 +14,7 @@ export default function Header() {
       </nav>
 
       <button
-        onClick={() => window.open('/MIDJIE_LIMAN_ROMARIC_CVV.pdf', '_blank')}
+        onClick={() => window.open('/CV_MIDJIE_LIMAN_ROMARIC.pdf', '_blank')}
         className="cursor-pointer bg-white text-sm text-gray-500 border-2 font-semibold border-black py-2 px-5 rounded-lg hover:bg-blue-50 transition"
       >
         Voir mon CV
