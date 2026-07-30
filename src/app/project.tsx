@@ -3,6 +3,13 @@ import { useState } from "react";
 
 const projects = [
   {
+    title: "Traducteur francais ewe",
+    description: "A partir d'un modele entrainer , cette application permet de traduire des phrases simples du francais vers l'ewe",
+    category: "Machine Learning",
+    github: "https://github.com/Kazusha/app_traducteur_de_langue_fr_ewe",
+    image: "/trad.png",
+  },
+  {
     title: "Plateforme Recrutement IA",
     description: "Une plateforme de recrutement utilisant l'intelligence artificielle pour analyser les CV et les lettres de motivation, offrant ainsi une présélection automatisée des candidats.",
     category: "Développement Web",
