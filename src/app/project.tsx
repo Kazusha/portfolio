@@ -4,7 +4,7 @@ import { useState } from "react";
 const projects = [
   {
     title: "Traducteur francais ewe",
-    description: "A partir d'un modele entrainer , cette application permet de traduire des phrases simples du francais vers l'ewe",
+    description: "A partir d'un modele entrainer , cette application permet de traduire des phrases simples du francais vers l'ewe avec des petites erreurs du au manque de donnees",
     category: "Machine Learning",
     github: "https://github.com/Kazusha/app_traducteur_de_langue_fr_ewe",
     image: "/trad.png",
